@@ -1,3 +1,3 @@
-# Profiles REST API
+# BACKEND REST API
 
-Profiles REST API personal project
+Backend REST API personal project
